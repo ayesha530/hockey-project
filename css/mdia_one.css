@@ -1,24 +1,24 @@
 @media(max-width:490px){
     .form_text {
-        width: 450px;}
+        width: 390px;}
         .div_name {
-            width: 220px;
+            width: 180px;
           }   
           .div_name input {
             font-size: 12px;
             width:90%;
           }
           .div_email {
-            width: 220px;}
+            width: 180px;}
             .div_email input {
                 font-size: 12px;
                 width:90%;
             }
             .form_sub{
-                width:450px;
+                width:390px;
             } 
             .div_sub {
-                width: 220px;
+                width: 180px;
               } 
               
             .div_email input {
@@ -30,7 +30,60 @@
             font-size: 12px;
             width:90%;}       
             .form_area {
-                width:450px;
-            }             
-            
+                width:390px;
+            }  
+            .form_btn {
+              width:380px;
+            }       
+            .world_cup {width:335px;}    
+            .professional_wraped {
+              flex-direction: column-reverse;
+              
+            }
+            .profession_one {
+              width: 171px;
+              margin: auto;
+              margin-top: 20px;
+            }
+              
+            .world_cup {
+              flex-direction: column;
+            }
+            .world_img img{
+              width:100%;
+            }
+            .word_text_list ul {
+              margin-top: 10px;
+            }
+            .profession_text {
+              left: 30px;
+              top: 32px;
+              width: 315px;
+            }
+            .junior_text {
+              padding: 25px;
+              left: 0px;
+              top: 30px;
+            }
+            .touch_list {
+              align-items: center;
+              justify-content: center;
+            }  
+            .touch_footer h2 {
+              text-align: center;
+            }
+            .footer_col_one{
+              width: 315px;
+              margin:auto;
+            }
+            .touch_list_one{
+              align-items: center;
+              justify-content: center;
+            }
+            .footer_col_two{
+              width:50% !important;
+            }
+            .footer_col_there{
+              width:50% !important;
+            }
 }
