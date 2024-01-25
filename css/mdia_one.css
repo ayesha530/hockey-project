@@ -1,0 +1,36 @@
+@media(max-width:490px){
+    .form_text {
+        width: 450px;}
+        .div_name {
+            width: 220px;
+          }   
+          .div_name input {
+            font-size: 12px;
+            width:90%;
+          }
+          .div_email {
+            width: 220px;}
+            .div_email input {
+                font-size: 12px;
+                width:90%;
+            }
+            .form_sub{
+                width:450px;
+            } 
+            .div_sub {
+                width: 220px;
+              } 
+              
+            .div_email input {
+                    font-size: 12px;
+                    width:90%;}
+        .div_phone {
+         width: 220px;}
+        .div_phone input {
+            font-size: 12px;
+            width:90%;}       
+            .form_area {
+                width:450px;
+            }             
+            
+}

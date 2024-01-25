@@ -1,0 +1,25 @@
+@media(max-width:575px){
+    .word_text p {
+        width: 200px;
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      .profession_text {
+        left: 45px;
+        top: 60px;
+        width: 450px;}   
+
+        .senior_text {
+            padding: 25px;
+            left: 0px;
+            top: 30px;
+          }  
+          .senior_program {
+            margin-top: 15px;
+          } 
+          .junior_text {
+            width: 450px;
+            top:0;
+          }
+ }        
